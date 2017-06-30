@@ -1,4 +1,6 @@
 .DS_Store
+*Twitter.plist
+.env.default
 
 # Xcode
 build/
